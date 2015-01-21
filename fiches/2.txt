@@ -1,0 +1,21 @@
+Cas d'accidents les plus caractérisques
+> Accidents en collision
+* Définition
+Choc à 50km/h contre un obstacle fixe = chute d'un 3ème ou 4ème étage (10m de hauteur)
+
+*Les plus caractérisques:
+- en intersection, mauvaise détection du motard,
+- changement de direction devant le motard
+- dépassement et l'automobiliste tourne à gauche
+- collision à l'arrêt, non-respect des distances de sécurité
+- collision de la moto à l'arrêt par un autre usager,
+- choc frontal
+
+> Accidents en solo
+* les plus caractéristiques
+- vitesse inadaptée,
+- inexprérience
+- perte de controle
+- perte d'adhérence
+- guidonnage
+

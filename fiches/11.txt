@@ -1,0 +1,45 @@
+Vitesse et freinage
+
+> Vitesse en mètres par seconde
+* Pourquoi exprimer des km/h en m/s ?
+Prise de conscience de la distance parcouru
+* Calcul simplifié
+Chiffre des dizaine * 3
+
+> Le temps de réaction
+* Définition, durée moyenne, modification
+Entre perception action
++ ou - 1 seconde
+Davantage si maladie, alcool...
+
+> L'energie cinétique
+* Definition
+Force accumuté par le movement, depend du carée de la vitesse, incident sur la violence d'un choc
+
+> La distance de freinage
+* Definition, modification
+Distance parcourue entre le moment ou l'on actionne les freins jusqu'a l'immobilisation de la moto
+Varie selon l'adhérence, l'état de la moto, la qualité de freinage
+
+> La disatance d'arret et la vitesse
+* Definition, modification, calcul simplifié
+Distance parcourue: temps de réaction + freinage = Arret.
+Varie selon le temps de réaction, la vitesse et le freinage
+* Calcul simplifié
+Le chiffre des dizaine par lui-meme
+
+> Freinage et réaction de la moto
+* Répartition
+70% sur l'avant, 30% sur l'arrière
+* Freinage d'urgence
+Commencer à freiner par l'arrière à cause du transfert de charge
+
+> Freinage et dérapage
+Situation à risque ? Statistique
+Freinage difficile et risque élevé de dérapage sur gravier,
+Nid de poule,
+Rainurage
+1/5 chutes lors d'un freinage d'urgence
+Relacher la pression
+Penser à l'ABS
+
